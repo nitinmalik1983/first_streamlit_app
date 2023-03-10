@@ -1,5 +1,5 @@
 import streamlit
-streamlit.title('My Daughter's Tisha Birthday Bash')
+streamlit.title('My Daughters Tisha Birthday Bash')
 streamlit.header('🍌🥭 Lets plan for the Birthday Party 🥝🍇')
 streamlit.text('Cake')
 streamlit.text('Mcdonald')
