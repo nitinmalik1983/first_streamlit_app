@@ -1,8 +1,10 @@
 import streamlit
-streamlit.title('My Daughters Tisha Birthday Bash')
+streamlit.title('my Birthday Bash')
 streamlit.header('🍌🥭 Lets plan for the Birthday Party 🥝🍇')
 streamlit.text('Cake')
-streamlit.text('Mcdonald')
+streamlit.text('Mcdonalds')
 streamlit.text('Starbucks')
-
-
+streamlit.text('drawing challange')
+streamlit.text('art supplies copic mrkers , posca markers , profestional colour pencils,sharpies ,alchahol markers ,all colours')
+streamlit.text('wearing a black hoodie is compulsory')
+streamlit.text ('watch anime')
